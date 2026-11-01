@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ty\\Desktop\\FinalProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|c:\\users\\ty\\desktop\\finalproject1\\finalproject\\saleorderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\saleorderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|c:\\users\\ty\\desktop\\finalproject1\\finalproject\\saleorder1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\saleorder1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|c:\\users\\ty\\desktop\\finalproject1\\finalproject\\saleorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\saleorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|C:\\Users\\Ty\\Desktop\\FinalProject1\\finalproject\\saleorderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\saleorderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|C:\\Users\\Ty\\Desktop\\FinalProject1\\finalproject\\saleorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\saleorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|c:\\users\\ty\\desktop\\finalproject1\\finalproject\\saleorderlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\saleorderlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|c:\\users\\ty\\desktop\\finalproject1\\finalproject\\finalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\finalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|c:\\users\\ty\\desktop\\finalproject1\\finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|c:\\users\\ty\\desktop\\finalproject1\\finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|c:\\users\\ty\\desktop\\finalproject1\\finalproject\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|c:\\users\\ty\\desktop\\finalproject1\\finalproject\\saleorderlist1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\saleorderlist1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|c:\\users\\ty\\desktop\\finalproject1\\finalproject\\note.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\note.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 287,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 163,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaleOrderList.cs",
+              "DocumentMoniker": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\SaleOrderList.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SaleOrderList.cs",
+              "ToolTip": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\SaleOrderList.cs",
+              "RelativeToolTip": "FinalProject\\SaleOrderList.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAlwEEAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T10:20:35.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaleOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\SaleOrder.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SaleOrder.cs",
+              "ToolTip": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\SaleOrder.cs [Design]",
+              "RelativeToolTip": "FinalProject\\SaleOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T10:07:31.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SaleOrderList.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\SaleOrderList.Designer.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SaleOrderList.Designer.cs",
+              "ToolTip": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\SaleOrderList.Designer.cs",
+              "RelativeToolTip": "FinalProject\\SaleOrderList.Designer.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAA2wKQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T10:07:24.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaleOrderList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\SaleOrderList.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SaleOrderList.cs",
+              "ToolTip": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\SaleOrderList.cs [Design]",
+              "RelativeToolTip": "FinalProject\\SaleOrderList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T10:07:16.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\MainForm.cs",
+              "RelativeDocumentMoniker": "FinalProject\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\MainForm.cs",
+              "RelativeToolTip": "FinalProject\\MainForm.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAASwHoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T23:57:46.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "note.txt",
+              "DocumentMoniker": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\note.txt",
+              "RelativeDocumentMoniker": "FinalProject\\note.txt",
+              "ToolTip": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\note.txt",
+              "RelativeToolTip": "FinalProject\\note.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-27T23:50:00.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaleOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\SaleOrder.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SaleOrder.cs",
+              "ToolTip": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\SaleOrder.cs",
+              "RelativeToolTip": "FinalProject\\SaleOrder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA7wNkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T23:47:54.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SaleOrderList1.cs",
+              "DocumentMoniker": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\SaleOrderList1.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SaleOrderList1.cs",
+              "ToolTip": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\SaleOrderList1.cs",
+              "RelativeToolTip": "FinalProject\\SaleOrderList1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T23:30:00.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaleOrder1.cs",
+              "DocumentMoniker": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\SaleOrder1.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SaleOrder1.cs",
+              "ToolTip": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\SaleOrder1.cs",
+              "RelativeToolTip": "FinalProject\\SaleOrder1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T23:27:59.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FinalProject.csproj",
+              "DocumentMoniker": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\FinalProject.csproj",
+              "RelativeDocumentMoniker": "FinalProject\\FinalProject.csproj",
+              "ToolTip": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\FinalProject.csproj",
+              "RelativeToolTip": "FinalProject\\FinalProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-26T23:47:27.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\Program.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\Program.cs",
+              "RelativeToolTip": "FinalProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T09:29:37.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\Form1.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\Form1.cs",
+              "RelativeToolTip": "FinalProject\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T22:51:31.779Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 271,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

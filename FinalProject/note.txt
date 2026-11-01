@@ -1,0 +1,16 @@
+﻿int qty = 0;
+            double up = 0.0;
+            try
+            {
+                qty = int.Parse(Quanity);
+                up = double.Parse(UnitPrice);
+            }catch(Exception ex)
+            {
+                qty = 0;
+                up = 0.0;
+            }
+            if(qty<=0 && up <=0)
+            {
+                MessageBox.Show("Qty or UP must be > 0", "require");
+                return;
+            }
