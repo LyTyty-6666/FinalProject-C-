@@ -39,7 +39,11 @@ namespace FinalProject
             }
         }
 
-        private void FillText() { this.txtPW.Focus();this.txtUsername.Focus(); }
+        private void FillText() 
+        { 
+            this.txtPW.Focus();
+            this.txtUsername.Focus();
+        }
 
     }
 }

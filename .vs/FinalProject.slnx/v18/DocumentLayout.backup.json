@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Ty\\Desktop\\FinalProject1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|c:\\users\\ty\\desktop\\finalproject1\\finalproject\\note.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\note.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|c:\\users\\ty\\desktop\\finalproject1\\finalproject\\saleorderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\saleorderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|c:\\users\\ty\\desktop\\finalproject1\\finalproject\\saleorderlist1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\saleorderlist1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|c:\\users\\ty\\desktop\\finalproject1\\finalproject\\note.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A9C3CCDD-CEA5-6E67-84ED-2FF1906B4C5E}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\note.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -80,7 +80,7 @@
         },
         {
           "DockedWidth": 163,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -96,20 +96,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SaleOrderList.cs",
               "DocumentMoniker": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\SaleOrderList.cs",
               "RelativeDocumentMoniker": "FinalProject\\SaleOrderList.cs",
               "ToolTip": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\SaleOrderList.cs",
               "RelativeToolTip": "FinalProject\\SaleOrderList.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAlwEEAAABkAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEEAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-30T10:20:35.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SaleOrder.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\SaleOrder.cs",
               "RelativeDocumentMoniker": "FinalProject\\SaleOrder.cs",
@@ -120,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SaleOrderList.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\SaleOrderList.Designer.cs",
               "RelativeDocumentMoniker": "FinalProject\\SaleOrderList.Designer.cs",
@@ -132,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SaleOrderList.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\SaleOrderList.cs",
               "RelativeDocumentMoniker": "FinalProject\\SaleOrderList.cs",
@@ -143,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\MainForm.cs",
               "RelativeDocumentMoniker": "FinalProject\\MainForm.cs",
@@ -155,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "note.txt",
               "DocumentMoniker": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\note.txt",
               "RelativeDocumentMoniker": "FinalProject\\note.txt",
@@ -163,11 +163,12 @@
               "RelativeToolTip": "FinalProject\\note.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-10-27T23:50:00.245Z"
+              "WhenOpened": "2026-10-27T23:50:00.245Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SaleOrder.cs",
               "DocumentMoniker": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\SaleOrder.cs",
               "RelativeDocumentMoniker": "FinalProject\\SaleOrder.cs",
@@ -179,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "SaleOrderList1.cs",
               "DocumentMoniker": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\SaleOrderList1.cs",
               "RelativeDocumentMoniker": "FinalProject\\SaleOrderList1.cs",
@@ -191,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SaleOrder1.cs",
               "DocumentMoniker": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\SaleOrder1.cs",
               "RelativeDocumentMoniker": "FinalProject\\SaleOrder1.cs",
@@ -203,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FinalProject.csproj",
               "DocumentMoniker": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\FinalProject.csproj",
               "RelativeDocumentMoniker": "FinalProject\\FinalProject.csproj",
@@ -215,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\Program.cs",
               "RelativeDocumentMoniker": "FinalProject\\Program.cs",
@@ -227,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Ty\\Desktop\\FinalProject1\\FinalProject\\Form1.cs",
               "RelativeDocumentMoniker": "FinalProject\\Form1.cs",
